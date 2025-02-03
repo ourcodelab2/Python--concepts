@@ -82,5 +82,5 @@
 2) more about tuple
 3) function returning two values 
 
-# Chapter 7: Dictionaries 
-1) dictionaries 
+# Chapter 7: Dictionary 
+1) dictionary 
