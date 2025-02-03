@@ -5,8 +5,8 @@
 
 # how to create dictionary
 user = {
-		'name' : 'Rajin', 
-		'age' : 24
+	'name' : 'Rajin', 
+	'age' : 24
 } 
 print(user)
 print(type(user))
