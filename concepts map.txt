@@ -80,3 +80,4 @@
 # Chapter 6: Tuples
 1) tuple
 2) more about tuple
+3) function returning two values 
