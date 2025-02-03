@@ -81,3 +81,6 @@
 1) tuple
 2) more about tuple
 3) function returning two values 
+
+# Chapter 7: Dictionaries 
+1) dictionaries 
