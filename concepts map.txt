@@ -89,3 +89,4 @@
 4) update dictionary 
 5) fromkeys,get,clear,copy method 
 6) exercise 1
+7) exercise 2
