@@ -90,3 +90,6 @@
 5) fromkeys,get,clear,copy method 
 6) exercise 1
 7) exercise 2
+
+# Chapter 8: Set
+1) set
