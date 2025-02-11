@@ -1,3 +1,5 @@
+# Exercise 1
+
 # define a function that take a list of strings. list containing reverse of every string
  
 # user list comprehension, using normal method
