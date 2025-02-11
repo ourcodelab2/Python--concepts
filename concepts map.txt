@@ -96,3 +96,4 @@
 
 # Chapter 9: comprehension 
 1) list comprehension 
+2) example 1
